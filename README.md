@@ -2,7 +2,7 @@
   <h1 align="center">Hi! I'm Deyvisson <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="50" height="50" /></h1>
 </div>
 
-### About me  |🤪|
+### About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium Skin Tone" width="25" height="25" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="25" /> My name is Deyvisson Menezes and I am an undergraduate student in information systems.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />I really enjoy neuroscience and technology. In the future, I plan to become a professional who combines both fields.<br />
@@ -12,17 +12,17 @@
   <img src="Computational neuroscientist.png" width="400px">
 </div>
   
-### Tech Stack  |⚡|
+### Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,idea,html,css,js,ts,nodejs,express,mongodb,java,spring,mysql,postgres,postman,git,linux&theme=dark&perline=8" />
 </p>
 
-### Current studies  |🤓|
+### Current studies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,ts,express,mongodb&theme=dark&perline=8" />
 </div>
 
-### GitHub Stats  |👀|
+### GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
 <div align='center'>
 
 <div align="center">  
