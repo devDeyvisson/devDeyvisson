@@ -7,6 +7,10 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="25" /> My name is Deyvisson Menezes and I am an undergraduate student in information systems.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />I really enjoy neuroscience and technology. In the future, I plan to become a professional who combines both fields.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> I currently work as a QA (Quality Assurance).<br />
+
+<div align="center">
+  <img src="Computational neuroscientist.png" width="400px">
+</div>
   
 ### Tech Stack  |⚡|
 <p align="center">
