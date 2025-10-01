@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea,html,css,js,ts,nodejs,express,mongodb,java,spring,mysql,postgres,postman,git,linux&theme=dark&perline=8" />
 </p>
 
-### Current studies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+### Current interests <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,ts,express,mongodb&theme=dark&perline=8" />
 </div>
